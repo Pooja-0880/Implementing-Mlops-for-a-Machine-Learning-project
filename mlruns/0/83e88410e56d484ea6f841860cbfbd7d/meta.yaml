@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GitHub/Mlops/Implementing-Mlops-for-a-Machine-Learning-project/mlruns/0/83e88410e56d484ea6f841860cbfbd7d/artifacts
+end_time: 1696746921636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83e88410e56d484ea6f841860cbfbd7d
+run_name: industrious-wolf-676
+run_uuid: 83e88410e56d484ea6f841860cbfbd7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696746916164
+status: 3
+tags: []
+user_id: acer

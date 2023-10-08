@@ -80,7 +80,7 @@ export MLFLOW_TRACKING_PASSWORD=9b1996f96ce7359c7ce930e2b458492d3951ddc1
 ```
 
 
-
+<!-- 
 # AWS-CICD-Deployment-with-Github-Actions
 
 ## 1. Login to AWS console.
@@ -155,7 +155,7 @@ export MLFLOW_TRACKING_PASSWORD=9b1996f96ce7359c7ce930e2b458492d3951ddc1
     ECR_REPOSITORY_NAME = simple-app
 
 
-
+ -->
 
 ## About MLflow 
 MLflow
@@ -164,4 +164,6 @@ MLflow
  - Trace all of your expriements
  - Logging & tagging your model
 
+#### Project Referred:
+-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmIwN2k2eWlBMlpzcmV1NVVHcUZxU09YRW51d3xBQ3Jtc0ttaXB1Q2RHbnAtYWN1U080RGF6dE15R3JudVZzZWNrWXBTQ2JsXzhPa0hVbU5Wd0VvVmM5Tl9VR3VyWjgwTFk0Mno1TUVPYWJkTVhOa0tySGtDbVRmQ0JjWUhSa2E2cjN4UnRLVFhraGRLNVQtRUNuVQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1c7k8i1l2X_r9i4yWAkQzxiP1Nu8_wqap%2Fview%3Fusp%3Ddrive_link&v=pxk1Fr33-L4 
 
