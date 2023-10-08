@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GitHub/Mlops/Implementing-Mlops-for-a-Machine-Learning-project/mlruns/0/9164403beed64f0ab2610e7fe6e07c36/artifacts
+end_time: 1696745054067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9164403beed64f0ab2610e7fe6e07c36
+run_name: debonair-stag-728
+run_uuid: 9164403beed64f0ab2610e7fe6e07c36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696745049835
+status: 3
+tags: []
+user_id: acer
