@@ -165,6 +165,6 @@ MLflow
  - Logging & tagging your model
 
 #### Project Referred:
-[Project](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmIwN2k2eWlBMlpzcmV1NVVHcUZxU09YRW51d3xBQ3Jtc0ttaXB1Q2RHbnAtYWN1U080RGF6dE15R3JudVZzZWNrWXBTQ2JsXzhPa0hVbU5Wd0VvVmM5Tl9VR3VyWjgwTFk0Mno1TUVPYWJkTVhOa0tySGtDbVRmQ0JjWUhSa2E2cjN4UnRLVFhraGRLNVQtRUNuVQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1c7k8i1l2X_r9i4yWAkQzxiP1Nu8_wqap%2Fview%3Fusp%3Ddrive_link&v=pxk1Fr33-L4)
+[Project](https://www.youtube.com/watch?v=pxk1Fr33-L4&t=6624s)
 
 
